@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{5DD3A415-D0C6-4687-9DD7-8A1CD8C4672B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="For loops/Program.cs">
+    <Files>
+      <File FileName="Loops/Program.cs" Line="4" Column="1" />
+      <File FileName="For loops/Program.cs" Line="3" Column="23" />
+      <File FileName="Random nr/Program.cs" Line="5" Column="31" />
+      <File FileName="Wile_loop/Program.cs" Line="11" Column="7" />
+      <File FileName="test/Program.cs" Line="5" Column="57" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Loops" expanded="True">
+            <Node name="For loops" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="Loops" expanded="True" />
+            <Node name="Random nr" expanded="True" />
+            <Node name="test" expanded="True" />
+            <Node name="Wile_loop" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.For_220loops PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.test PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Loops PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Wile__loop PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Random_220nr PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,15 @@
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week4/Loops/Wile_loop/obj/Debug/net7.0/Wile_loop.csproj.AssemblyReference.cache
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week4/Loops/Wile_loop/obj/Debug/net7.0/Wile_loop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week4/Loops/Wile_loop/obj/Debug/net7.0/Wile_loop.AssemblyInfoInputs.cache
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week4/Loops/Wile_loop/obj/Debug/net7.0/Wile_loop.AssemblyInfo.cs
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week4/Loops/Wile_loop/obj/Debug/net7.0/Wile_loop.csproj.CoreCompileInputs.cache
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week4/Loops/Wile_loop/bin/Debug/net7.0/Wile_loop
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week4/Loops/Wile_loop/bin/Debug/net7.0/Wile_loop.deps.json
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week4/Loops/Wile_loop/bin/Debug/net7.0/Wile_loop.runtimeconfig.json
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week4/Loops/Wile_loop/bin/Debug/net7.0/Wile_loop.dll
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week4/Loops/Wile_loop/bin/Debug/net7.0/Wile_loop.pdb
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week4/Loops/Wile_loop/obj/Debug/net7.0/Wile_loop.dll
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week4/Loops/Wile_loop/obj/Debug/net7.0/refint/Wile_loop.dll
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week4/Loops/Wile_loop/obj/Debug/net7.0/Wile_loop.pdb
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week4/Loops/Wile_loop/obj/Debug/net7.0/Wile_loop.genruntimeconfig.cache
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week4/Loops/Wile_loop/obj/Debug/net7.0/ref/Wile_loop.dll

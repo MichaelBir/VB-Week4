@@ -1,0 +1,15 @@
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week4/Loops/Random nr/obj/Debug/net7.0/Random nr.csproj.AssemblyReference.cache
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week4/Loops/Random nr/obj/Debug/net7.0/Random nr.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week4/Loops/Random nr/obj/Debug/net7.0/Random nr.AssemblyInfoInputs.cache
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week4/Loops/Random nr/obj/Debug/net7.0/Random nr.AssemblyInfo.cs
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week4/Loops/Random nr/obj/Debug/net7.0/Random nr.csproj.CoreCompileInputs.cache
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week4/Loops/Random nr/bin/Debug/net7.0/Random nr
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week4/Loops/Random nr/bin/Debug/net7.0/Random nr.deps.json
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week4/Loops/Random nr/bin/Debug/net7.0/Random nr.runtimeconfig.json
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week4/Loops/Random nr/bin/Debug/net7.0/Random nr.dll
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week4/Loops/Random nr/bin/Debug/net7.0/Random nr.pdb
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week4/Loops/Random nr/obj/Debug/net7.0/Random nr.dll
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week4/Loops/Random nr/obj/Debug/net7.0/refint/Random nr.dll
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week4/Loops/Random nr/obj/Debug/net7.0/Random nr.pdb
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week4/Loops/Random nr/obj/Debug/net7.0/Random nr.genruntimeconfig.cache
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week4/Loops/Random nr/obj/Debug/net7.0/ref/Random nr.dll

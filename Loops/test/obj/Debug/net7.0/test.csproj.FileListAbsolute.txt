@@ -1,0 +1,15 @@
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week4/Loops/test/bin/Debug/net7.0/test
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week4/Loops/test/bin/Debug/net7.0/test.deps.json
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week4/Loops/test/bin/Debug/net7.0/test.runtimeconfig.json
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week4/Loops/test/bin/Debug/net7.0/test.dll
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week4/Loops/test/bin/Debug/net7.0/test.pdb
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week4/Loops/test/obj/Debug/net7.0/test.csproj.AssemblyReference.cache
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week4/Loops/test/obj/Debug/net7.0/test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week4/Loops/test/obj/Debug/net7.0/test.AssemblyInfoInputs.cache
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week4/Loops/test/obj/Debug/net7.0/test.AssemblyInfo.cs
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week4/Loops/test/obj/Debug/net7.0/test.csproj.CoreCompileInputs.cache
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week4/Loops/test/obj/Debug/net7.0/test.dll
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week4/Loops/test/obj/Debug/net7.0/refint/test.dll
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week4/Loops/test/obj/Debug/net7.0/test.pdb
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week4/Loops/test/obj/Debug/net7.0/test.genruntimeconfig.cache
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week4/Loops/test/obj/Debug/net7.0/ref/test.dll

@@ -1,0 +1,15 @@
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week4/Loops/For loops/bin/Debug/net7.0/For loops
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week4/Loops/For loops/bin/Debug/net7.0/For loops.deps.json
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week4/Loops/For loops/bin/Debug/net7.0/For loops.runtimeconfig.json
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week4/Loops/For loops/bin/Debug/net7.0/For loops.dll
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week4/Loops/For loops/bin/Debug/net7.0/For loops.pdb
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week4/Loops/For loops/obj/Debug/net7.0/For loops.csproj.AssemblyReference.cache
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week4/Loops/For loops/obj/Debug/net7.0/For loops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week4/Loops/For loops/obj/Debug/net7.0/For loops.AssemblyInfoInputs.cache
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week4/Loops/For loops/obj/Debug/net7.0/For loops.AssemblyInfo.cs
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week4/Loops/For loops/obj/Debug/net7.0/For loops.csproj.CoreCompileInputs.cache
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week4/Loops/For loops/obj/Debug/net7.0/For loops.dll
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week4/Loops/For loops/obj/Debug/net7.0/refint/For loops.dll
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week4/Loops/For loops/obj/Debug/net7.0/For loops.pdb
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week4/Loops/For loops/obj/Debug/net7.0/For loops.genruntimeconfig.cache
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week4/Loops/For loops/obj/Debug/net7.0/ref/For loops.dll
